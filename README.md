@@ -3,7 +3,7 @@
 Welcome to the repository of PMAP!
 ### What is PMAP?
 PMAP is an open source port scanner writen in Python for only educational purposes.
-You only need the target's IP address, and a two port number to make it work.
+You only need the target's IP address, and two port number to make it work.
 ```
 [PMAP]> ipsetup>ip> Add the target's IP address: 192.168.1.X
 [PMAP]> Validating the IP address...
