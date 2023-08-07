@@ -1,4 +1,4 @@
-![alt text](https://previews.dropbox.com/p/thumb/AB-6S_iZev5j_3bCdRQhfyYhPRvr35Cg_0ns1O3K15s-RBs96RAq_LtbMcaWveZGpDeOjZKiSmwFFj-B2_VnUKlPqZnFwGHv7Ow7W9yZsHqjsE8OdtOp5TSfYaShdkbNM1a3n3tV3OpRstEke3Ql2n1uCAUDekVLbISCI_J8SxkB0O79Ck-egx8I2wSGFGyIhf1E_QO5D109fizGGVysO2R_3x6CrmbZzPR_0XLe-F-KGYlnZw-NioHcVmM8_F_lpFS_KaPRqU0vkkWmoXuTcCHh5nllf5IbkStWZ3sdydwHeRWVvu6-v7bctc-jqV4_GjgiEh5qoGetty10helbDnHd/p.png)
+![alt text](https://i.ibb.co/tqJDc87/pmap-logo-github.png)
 # PMAP - Python Port Scanner
 Welcome to the repository of PMAP!
 ### What is PMAP?
