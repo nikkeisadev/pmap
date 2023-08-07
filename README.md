@@ -40,7 +40,8 @@ except socket.error:
 
 ```
 This is the scanning part of the code. As you noticed, it's using ```sockets``` to scan the address by sending packets.
-Also, I really like colored terminal programs, so I choosed to use ```colorama```, it's a Python package too.
+Also, I really like colored terminal applications, so I choosed to use ```colorama```, it's a Python package too.
+You can find ```requirements.txt``` in source folder.
 > PMAP is a very basic scanner, also being slow, so it's not recommended for everyday use, it's better for learning how does it works.
 
 # PyInstaller module build support:
